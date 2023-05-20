@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.theapapp.spacedout2</string>
+		<string>group.com.yourname.spacedout2</string>
 	</array>
 </dict>
 </plist>
